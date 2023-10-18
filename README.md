@@ -1,8 +1,7 @@
-# DIO - Python ATM 2.0.1 
+# DIO - PowerBi
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-#F2C811?logo=power-bi&labelColor=black&message=ok!&logoColor=white&style=for-the-badge)
 [![SharePoint](https://img.shields.io/badge/SharePoint-Online-brightgreen.svg&logoColor=white&message=ok!&style=plastic)](https://app.powerbi.com/reportEmbed?reportId=c74468ef-39af-4587-b1a4-2724848883ac)
-![Netlify](https://img.shields.io/static/v1?label=Netlify&labelColor=black&message=error-deploy_on_yt_▶&color=red&style=plastic&logo=netlify)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?label=⚖License&logo=balance-scale&logoColor=white&style=plastic)](https://opensource.org/licenses/MIT)
 [![dio.me](https://img.shields.io/static/v1?label=⚫Dio.me&labelColor=black&message=ok!✔&color=purple&style=plastic&&logoXcolor=white)](https://web.dio.me/users/olhodelugarnenhum?tab=skills)
 
