@@ -1,4 +1,4 @@
-# DIO - Python ATM 2.0.1 
+# DIO - Power BI 1.0.0 
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-#F2C811?logo=power-bi&labelColor=black&message=ok!&logoColor=white&style=for-the-badge)
 [![SharePoint](https://img.shields.io/badge/SharePoint-Online-brightgreen.svg&logoColor=white&message=ok!&style=plastic)](https://app.powerbi.com/reportEmbed?reportId=c74468ef-39af-4587-b1a4-2724848883ac)
@@ -9,14 +9,14 @@
 
 ## Status do Projeto
 
-<p> ⚙ Em andamentoi. ⚙ </p>
+<p> ⚙ Completo⚙ </p>
 
 ## Descrição do projeto 
 
  
   _1.0.0 2023.10.18_
   
-  Desafio de dashboarsds do Microsoft PowerBi pelo BootCamp Santander e Dio de Ciencia de ados
+  Desafio de dashboarsds do Microsoft PowerBi pelo BootCamp Santander e Dio de Ciencia de dados
 
 ## Funcionalidades
 
@@ -24,7 +24,7 @@ _1.0.0 2023.10.18_
   
 ✔ Relatorio criativo: desafio 1, link no sharepoint, versoões de arquivo em PDF e PPTx, visto que a versão gratuita do software não salva arquivos; 
 
-✔ desafio 2, em andamento; 
+✔ ELT de dados com carregamento na nuvem e tratamento via PowerBi, após trataitvas, consegui refazer o documento e subri ao repositório; 
 
 
 ## Layout ou Deploy da Aplicação :dash:
@@ -32,7 +32,7 @@ _1.0.0 2023.10.18_
 
 Desafio 1 - relatório criativo - https://app.powerbi.com/reportEmbed?reportId=c74468ef-39af-4587-b1a4-2724848883ac
 
-Desafio 2 - 
+Desafio 2 - PDf disponibilizado nesse repo
 
 ## Pré-requisitos
 
@@ -56,7 +56,7 @@ Não há nenhum usuário cadastrado.
 
 ## Iniciando/Configurando banco de dados
 
-dados de sample do prórpiro Microsoft PowerBi. 
+dados de sample do prórpiro Microsoft PowerBi/Dados retirados do próprio desafio [neste repositório.](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%203/Desafio%20de%20Projeto)   
 
 ## Tarefas em aberto/Resolvendo Problemas 🧨
 
